@@ -1,5 +1,9 @@
 # PS4 Firmware Checker v1.0
 
+## 📸 Preview
+
+![PS4 Firmware Checker](screenshot.png)
+
 ## 📌 Overview
 
 PS4 Firmware Checker is a lightweight desktop application designed to quickly identify and analyze PS4UPDATE.PUP firmware files.
