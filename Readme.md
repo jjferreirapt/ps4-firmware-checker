@@ -1,4 +1,4 @@
-# PS4 Firmware Checker v1.0
+# PS4 Firmware Checker v1.1
 
 ## 📸 Preview
 
@@ -8,9 +8,11 @@
 
 PS4 Firmware Checker is a lightweight desktop application designed to quickly identify and analyze PS4UPDATE.PUP firmware files.
 
-By selecting a firmware file, the tool calculates its MD5 hash and retrieve detailed information about the firmware.
+By selecting a firmware file, the tool retrieve detailed information about that firmware.
 
 This includes version, file type, region, size, release date, and download source.
+
+It also allows checking the latest available PS4 firmware version directly from Sony servers.
 
 ---
 
@@ -18,6 +20,7 @@ This includes version, file type, region, size, release date, and download sourc
 
 - Fast analysis of PS4UPDATE.PUP files
 - Automatic MD5 hash calculation
+- Checks latest PS4 firmware available on Sony servers
 - Displays detailed firmware information:
   - Firmware version
   - File type (System / Recovery)
@@ -37,14 +40,6 @@ This includes version, file type, region, size, release date, and download sourc
 3. Choose a PS4UPDATE.PUP file
 4. Wait for analysis to complete
 5. View firmware information instantly
-
----
-
-## 📦 Version
-
-**v1.0 - Initial Release**
-
-This is the first public release of PS4 Firmware Checker, providing full firmware identification.
 
 ---
 
