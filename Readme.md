@@ -46,11 +46,13 @@ It also allows checking the latest available PS4 firmware version directly from 
 ## 📝 Changelog
 
 v1.1
-Added the ability to check the latest firmware available online
+
+- Added the ability to check the latest firmware available online
 
 v1.0
-Initial release
-Supports analysis of local PS4UPDATE.PUP files
+
+- Initial release
+- Supports analysis of local PS4UPDATE.PUP files
 
 ---
 
