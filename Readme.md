@@ -1,4 +1,4 @@
-# PS4 Firmware Checker v1.1
+# PS4 Firmware Checker v1.2
 
 ## 📸 Preview
 
@@ -44,6 +44,10 @@ It also allows checking the latest available PS4 firmware version directly from 
 ---
 
 ## 📝 Changelog
+
+v1.2
+
+- Added for PS5, PS3, PSP and PSPGo firmwares
 
 v1.1
 
